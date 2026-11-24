@@ -13,7 +13,8 @@ Acest repozitoriu este chiar `proiect-echipa` din fișă: conține istoricul rea
 | Toate capturile de ecran Git Bash (20) | [`raport/capturi/`](raport/capturi) |
 | Proiectul de exercițiu de la Ex. 2–3 (`proiect-ignore`) | [`proiect-ignore/`](proiect-ignore) + `ISTORIC-git-log.txt` |
 | Fișier mare stocat cu Git LFS (Ex. 4) | [`date-serghei.bin`](date-serghei.bin) — „Stored with Git LFS” |
-| Commit semnat + etichetă semnată (Ex. 5) | `semnatura-serghei.txt`, tag `v1.0-serghei` |
+| Commit semnat + etichetă semnată (Ex. 5) | `semnatura-serghei.txt`, tag `v1.0-serghei` (în [`raport/eticheta-v1.0-serghei.bundle`](raport/eticheta-v1.0-serghei.bundle)) |
+| **Pașii finali** (Verified + urcarea etichetei) | [`raport/PASI-FINALI.md`](raport/PASI-FINALI.md) |
 | Contribuția în echipă (Ex. 6) | [`echipa/serghei.txt`](echipa/serghei.txt) |
 | Cheia GPG **publică** (ID `87BDA85210AA89C5`) | [`raport/cheie-publica-gpg-Popov-Serghei.asc`](raport/cheie-publica-gpg-Popov-Serghei.asc) |
 
