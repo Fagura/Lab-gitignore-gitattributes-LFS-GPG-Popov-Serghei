@@ -1,0 +1,9 @@
+# Fisiere jurnal
+*.log
+!important.log
+# Foldere temporare si module
+temp/
+node_modules/
+# Fisiere personale
+.env
+*.tar

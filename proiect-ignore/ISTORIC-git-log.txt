@@ -1,0 +1,10 @@
+725d482 Popov Serghei N Anulez urmarirea LFS pentru *.bin
+71ef179 Popov Serghei N Adaug date.bin prin LFS
+272a30e Popov Serghei N Ignor arhivele
+7b03f7c Popov Serghei N Adaug .gitattributes si fisiere
+0f441a9 Popov Serghei N Adaug note.txt (CRLF)
+1712094 Popov Serghei N Stop tracking debug.log
+e313d00 Popov Serghei N Adaug din greseala debug.log
+53e1625 Popov Serghei N Completez .gitignore
+75332cc Popov Serghei N Adaug .gitignore si app.js
+2d382b6 Popov Serghei N Adaug index.html si style.css
